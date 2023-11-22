@@ -1,6 +1,6 @@
 ## Olá! Eu sou o KeyssonG
 
-- 🧑‍💼 Hoje trabalho com Prevenção a fraude
+- 🧑‍💼 Hoje trabalho como Analista de NOC
 - 📚 Estudo análise e desenvolvimento de sistemas
 - 🐍 Foco em estudar Python
 - 😁 Pronouns: ele/dele
