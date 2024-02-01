@@ -6,8 +6,8 @@
 - 😁 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="keysson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="keysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="keysson-CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd5%2FCSS3_logo_and_wordmark.svg&tbnid=UOtmqrnStIs6GM&vet=12ahUKEwjK6LzK7YiEAxUlF7kGHVdEB1UQMygAegQIARAu..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ACSS3_logo_and_wordmark.svg&docid=UTcB3QAkBjhX9M&w=387&h=546&q=css-original.svg&ved=2ahUKEwjK6LzK7YiEAxUlF7kGHVdEB1UQMygAegQIARAu)">
 </div>
 
 ##
