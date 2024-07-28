@@ -2,7 +2,7 @@
 
 - 🧑‍💼 Hoje trabalho como Analista de NOC
 - 📚 Estudo análise e desenvolvimento de sistemas
-- 👨🏻‍💻 Foco em estudar Front-end - HTML, CSS e JS 
+- 👨🏻‍💻 Foco em estudar Front-end - HTML, CSS e JS Back-end - Node, Fastify, Prisma, SQL
 - 😁 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
