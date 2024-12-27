@@ -1,15 +1,18 @@
-## Olá! Eu sou o KeyssonG
+## Olá! Eu sou o Keysson
 
-- 🧑‍💼 Hoje trabalho como Analista de NOC
-- 📚 Estudo análise e desenvolvimento de sistemas
-- 👨🏻‍💻 Foco em estudar Front-end - HTML, CSS e JS Back-end - Node, Fastify, Prisma, SQL
-- 😁 Pronouns: ele/dele
+- 🧑‍💼 Hoje trabalho como desenvolvedor Java.
+- 📚 Estudo Análise e Desenvolvimento de Sistemas.
+- 👨🏻‍💻 Foco em estudar Back-end.
+- 😁 Pronomes: ele/dele.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="keysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="keysson-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="keysson-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="keysson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="keysson-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="keysson-Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
+  <img align="center" alt="keysson-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="keysson-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
 
 ##
 
